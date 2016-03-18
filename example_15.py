@@ -31,3 +31,6 @@ def convert_number(s):
 # http://pandas.pydata.org/
 # http://www.nltk.org/
 # http://scikit-learn.org/stable/
+
+#http://guidetodatamining.com/
+#http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/?utm_content=bufferd1373&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
